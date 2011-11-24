@@ -7,81 +7,97 @@
 	"url00":
 	{
 		"name": "Hacker News",
-		"url": "http://news.ycombinator.com/"
+		"url": "http://news.ycombinator.com/",
+		"tooltip": "Local nerd news"
 	},
 	"url01":
 	{
 		"name": "Slashdot",
-		"url": "http://slashdot.org/"
+		"url": "http://slashdot.org/",
+		"tooltip": ""
 	},
 	"url02":
 	{
 		"name": "",
-		"url": ""
+		"url": "",
+		"tooltip": ""
 	},
 	"url03":
 	{
 		"name": "",
-		"url": ""
+		"url": "",
+		"tooltip": ""
 	},
 	"url10":
 	{
 		"name": "github",
-		"url": "http://www.github.com/"
+		"url": "http://www.github.com/",
+		"tooltip": "git hosting<br />(free public repositories)"
 	},
 	"url11":
 	{
 		"name": "bitbucket",
-		"url": "http://bitbucket.org/"
+		"url": "http://bitbucket.org/",
+		"tooltip": "git or mercurial hosting<br />(free public and private repositories)"
 	},
 	"url12":
 	{
 		"name": "",
-		"url": ""
+		"url": "",
+		"tooltip": ""
 	},
 	"url13":
 	{
 		"name": "",
-		"url": ""
+		"url": "",
+		"tooltip": ""
 	},
 	"url20":
 	{
 		"name": "",
-		"url": ""
+		"url": "",
+		"tooltip": ""
 	},
 	"url21":
 	{
 		"name": "",
-		"url": ""
+		"url": "",
+		"tooltip": ""
 	},
 	"url22":
 	{
 		"name": "",
-		"url": ""
+		"url": "",
+		"tooltip": ""
 	},
 	"url23":
 	{
 		"name": "",
-		"url": ""
+		"url": "",
+		"tooltip": ""
 	},
 	"url30":
 	{
 		"name": "",
-		"url": ""
+		"url": "",
+		"tooltip": ""
 	},
 	"url31":
 	{
 		"name": "",
-		"url": ""
+		"url": "",
+		"tooltip": ""
 	},
 	"url32":
 	{
 		"name": "",
-		"url": ""
+		"url": "",
+		"tooltip": ""
 	},
 	"url33":
 	{
 		"name": "",
-		"url": ""
+		"url": "",
+		"tooltip": ""
 	}
 }

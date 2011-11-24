@@ -4,17 +4,32 @@ body{
     min-width: 900px;
 }
 
-#header{
-    display: none;
-}
+/***************
+ * IDs
+ ***************/
 
-.hideMe{
+#header{
     display: none;
 }
 
 #googleSearchForm {
     display: none;
 }
+
+#urlField
+{
+    text-align: left;
+    padding-left: 6%;
+}
+
+#copyright a, #copyright a:link, #copyright a:visited, #copyright a:hover, #copyright a:active {
+    color: #000000;
+    text-decoration : none;
+}
+
+/***************
+ * Classes
+ ***************/
 
 .noJSAlert-outer {
     background-color: #FFF;
@@ -36,6 +51,15 @@ body{
     padding:10px;
 }
 
+.all
+{
+    position: relative;
+}
+
+.hideMe{
+    display: none;
+}
+
 .mainDiv
 {
     position: relative;
@@ -55,11 +79,6 @@ body{
     margin-left: 10px;
     margin-right: 0px;
     overflow: hidden;
-}
-
-.all
-{
-    position: relative;
 }
 
 .innerRow
@@ -84,22 +103,4 @@ body{
     position:absolute;
     z-index:1000;
     border-radius: 3px;
-}
-
-#urlField
-{
-    text-align: left;
-    padding-left: 6%;
-}
-
-#copyright
-{
-    font: 60% "Trebuchet MS", sans-serif;
-    text-align: right;
-    margin-right: 5%;
-}
-
-#copyright a, #copyright a:link, #copyright a:visited, #copyright a:hover, #copyright a:active {
-    color: #000000;
-    text-decoration : none;
 }
