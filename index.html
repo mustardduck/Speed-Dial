@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+    <title>Speed Dial</title>
+    <link type="text/css" href="css/custom-theme/jquery-ui-1.8.16.custom.css" rel="stylesheet" />
+    <link type="text/css" href="css/main.css" rel="stylesheet" />	
+    <script type="text/javascript" src="js/lib/jquery-1.6.2.min.js"></script>
+    <script type="text/javascript" src="js/lib/jquery-ui-1.8.16.custom.min.js"></script>
+    <script type="text/javascript" src="js/main.js"></script>
+  </head>
+  <body class="ui-widget-overlay">
+
+    <noscript>
+      <center>
+        <div class="noJSAlert-outer">
+          <div class="noJSAlert-inner-up">
+            &nbsp;JavaScript is disabled
+          </div>
+          <div class="noJSAlert-inner-down">
+            JavaScript is turned off in your web browser, so this site won't work properly! <br />
+            <strong>
+              Please turn JavaScript on to use this site, then refresh the page.
+            </strong>
+          </div>
+        </div>
+      </center>
+    </noscript>
+
+    <div id="header">
+      <h3><span id="owner"></span> Speed Dial</h3>
+    </div>
+    <div class="mainDiv">
+      <form method="get" action="http://www.google.com/search" id="googleSearchForm">
+	<input type="text" name="q" size="30" maxlength="255" value="" id="googleSearchFormInput" />
+	<input type="submit" value="Google Search" />
+      </form>
+      <span class="hideMe">
+	<!-- 1. row -->
+	<div class="ui-widget ui-widget-content ui-corner-all fillMe"></div>
+	<div class="ui-widget ui-widget-content ui-corner-all fillMe"></div>
+	<div class="ui-widget ui-widget-content ui-corner-all fillMe"></div>
+	<div class="ui-widget ui-widget-content ui-corner-all fillMe"></div>
+	<!-- 2 row -->
+	<div class="ui-widget ui-widget-content ui-corner-all fillMe"></div>
+	<div class="ui-widget ui-widget-content ui-corner-all fillMe"></div>
+	<div class="ui-widget ui-widget-content ui-corner-all fillMe"></div>
+	<div class="ui-widget ui-widget-content ui-corner-all fillMe"></div>
+	<!-- 3. row -->
+	<div class="ui-widget ui-widget-content ui-corner-all fillMe"></div>
+	<div class="ui-widget ui-widget-content ui-corner-all fillMe"></div>
+	<div class="ui-widget ui-widget-content ui-corner-all fillMe"></div>
+	<div class="ui-widget ui-widget-content ui-corner-all fillMe"></div>
+	<!-- 4. row -->
+	<div class="ui-widget ui-widget-content ui-corner-all fillMe"></div>
+	<div class="ui-widget ui-widget-content ui-corner-all fillMe"></div>
+	<div class="ui-widget ui-widget-content ui-corner-all fillMe"></div>
+	<div class="ui-widget ui-widget-content ui-corner-all fillMe"></div>
+      </span>
+    </div>
+    <p id="urlField">
+      <div id="url">&nbsp;</div>
+    </p>
+  </body>
+</html>

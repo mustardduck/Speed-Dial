@@ -1,0 +1,87 @@
+{
+	"showHeader": true,
+	"owner": "",
+	"tooltips": true,
+	"openInNewTab": false,
+	"showSearchForm": true,
+	"url00":
+	{
+		"name": "Hacker News",
+		"url": "http://news.ycombinator.com/"
+	},
+	"url01":
+	{
+		"name": "Slashdot",
+		"url": "http://slashdot.org/"
+	},
+	"url02":
+	{
+		"name": "",
+		"url": ""
+	},
+	"url03":
+	{
+		"name": "",
+		"url": ""
+	},
+	"url10":
+	{
+		"name": "github",
+		"url": "http://www.github.com/"
+	},
+	"url11":
+	{
+		"name": "bitbucket",
+		"url": "http://bitbucket.org/"
+	},
+	"url12":
+	{
+		"name": "",
+		"url": ""
+	},
+	"url13":
+	{
+		"name": "",
+		"url": ""
+	},
+	"url20":
+	{
+		"name": "",
+		"url": ""
+	},
+	"url21":
+	{
+		"name": "",
+		"url": ""
+	},
+	"url22":
+	{
+		"name": "",
+		"url": ""
+	},
+	"url23":
+	{
+		"name": "",
+		"url": ""
+	},
+	"url30":
+	{
+		"name": "",
+		"url": ""
+	},
+	"url31":
+	{
+		"name": "",
+		"url": ""
+	},
+	"url32":
+	{
+		"name": "",
+		"url": ""
+	},
+	"url33":
+	{
+		"name": "",
+		"url": ""
+	}
+}

@@ -1,0 +1,105 @@
+body{
+    font: 90% "Trebuchet MS", sans-serif;
+    text-align: center;
+    min-width: 900px;
+}
+
+#header{
+    display: none;
+}
+
+.hideMe{
+    display: none;
+}
+
+#googleSearchForm {
+    display: none;
+}
+
+.noJSAlert-outer {
+    background-color: #FFF;
+    border:1px solid red;
+    width:650px;
+    margin:20px;
+    color: #000000;
+}
+
+.noJSAlert-inner-up {
+    text-align: left;
+    background:red;
+    color:white;
+    padding-top:2px;
+    padding-bottom:2px;
+}
+
+.noJSAlert-inner-down {
+    padding:10px;
+}
+
+.mainDiv
+{
+    position: relative;
+    padding-top: 0;
+    padding-bottom: 0;
+    padding-left: 5%;
+    padding-right: 5%;
+    overflow: hidden;
+}
+
+.fillMe
+{
+    float: left;
+    width: 20%;
+    margin-top: 10px;
+    margin-bottom: 0px;
+    margin-left: 10px;
+    margin-right: 0px;
+    overflow: hidden;
+}
+
+.all
+{
+    position: relative;
+}
+
+.innerRow
+{
+    background: none;
+    border: 0;
+}
+
+.blankCheckbox
+{
+    text-align: center;
+}
+
+.tip {
+    text-align: left;
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+    color: #fff;
+    background:#222;
+    display:none;
+    padding:10px;
+    position:absolute;
+    z-index:1000;
+    border-radius: 3px;
+}
+
+#urlField
+{
+    text-align: left;
+    padding-left: 6%;
+}
+
+#copyright
+{
+    font: 60% "Trebuchet MS", sans-serif;
+    text-align: right;
+    margin-right: 5%;
+}
+
+#copyright a, #copyright a:link, #copyright a:visited, #copyright a:hover, #copyright a:active {
+    color: #000000;
+    text-decoration : none;
+}
