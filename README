@@ -1,9 +1,7 @@
 Speed Dial
 ----------
 
-Simple and dirty speed dial (see Opera and Chrome) for personal usage.
-Written in Javascript.
-Data stored in a json file.
+Simple and dirty implementation of a browser speed dial (see Opera or Chrome) with data stored in a json file.
 
 Author
 ------
@@ -16,7 +14,7 @@ jQuery 1.7 ( http://jquery.com/ )
 Copyright
 ---------
 Copyright 2011 Denis Meyer. All rights reserved.
-http://www.calltopower.de
+http://www.calltopower.org
 
 License
 -------
